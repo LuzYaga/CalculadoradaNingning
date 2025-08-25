@@ -1,0 +1,1 @@
+Usei um guia do freeCodeCamp pra aprender a usar javascript em adicional à faculdade, além disso também usei esse mini projeto para aprender o básico de Git
